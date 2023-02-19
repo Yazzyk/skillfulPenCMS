@@ -1,0 +1,11 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: go_010@qq.com
+    name: API Support
+  description: 妙笔CMS API
+  title: 妙笔CMS
+  version: "1.0"
+paths: {}
+swagger: "2.0"

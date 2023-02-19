@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/use-case-diagram
+
+:Guests: AS Guest
+:Admin: AS Admin
+(front page) AS FPage
+(admin page) AS APage
+(backend) AS Server
+
+APage <-> Server
+Server -> FPage
+Admin -> APage
+FPage <- Guest
+APage -> FPage
+
+@enduml
+
