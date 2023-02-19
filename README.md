@@ -8,7 +8,7 @@
 - [jet](https://github.com/CloudyKit/jet)
 - [vue](https://cn.vuejs.org/)
 - [arco design](https://arco.design/)
-- [gorm](https://grom.io)
+- [gorm](https://gorm.io/)
 
 ## 用例图
 ![](plantuml/out/cms.png)
